@@ -683,7 +683,6 @@ footer{
 
  
 
-
     #topo h1{
         font-size: 5em;
     }
@@ -694,10 +693,6 @@ footer{
 
     }
 
-    
-
-
-    
 
     div.div-photo{
         flex-direction: row;
@@ -1051,7 +1046,7 @@ footer{
 
  
     
-    }
+}
 
 
 @media (min-width:598px) {
@@ -1060,7 +1055,7 @@ footer{
         
         }  
         
-    }
+}
 
 
 @media (max-width: 395px ) {
@@ -1094,12 +1089,8 @@ footer{
             font-size:20vw
 
            }
-    }
+}
 
 
 
 
-
-
-
-/* last functions do site 
